@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Murtuza Kapasi](https://github.com/MurtuzaKapasi)
+- Place: Pune, Maharashtra,India
+- Bio:Web developer,learner,student,member of team Maverick
+- GitHub: [Murtuza-kapasi](https://github.com/MurtuzaKapasi)
